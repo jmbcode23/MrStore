@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MrStore/static/css/main.6d9c1fdf.css",
+    "main.js": "/MrStore/static/js/main.924b29b7.js",
+    "index.html": "/MrStore/index.html",
+    "main.6d9c1fdf.css.map": "/MrStore/static/css/main.6d9c1fdf.css.map",
+    "main.924b29b7.js.map": "/MrStore/static/js/main.924b29b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d9c1fdf.css",
+    "static/js/main.924b29b7.js"
+  ]
+}
